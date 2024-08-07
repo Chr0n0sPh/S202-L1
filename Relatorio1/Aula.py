@@ -13,5 +13,5 @@ class Aula:
     def listar_preseca(self):
         print(f"Presença na aula sobre {self.assunto}, ministrada pelo {self.professor.nome}:")
         for aluno in self.alunos:
-            print(f"O aluno {aluno.nome} está presente")
+            aluno.presenca()
 
