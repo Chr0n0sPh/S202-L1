@@ -1,0 +1,35 @@
+[
+  {
+    "nome": "C209",
+    "assunto": "Computação Gráfica e Multimídea",
+    "professor": {
+      "nome": "Christopher Lima"
+    },
+    "alunos": {
+      "nome_Aluno": ["Paulo Henrique Pivoto","João Gabriel","Pedro Tiso","Guilherme Fernandes"]
+    }
+  },
+
+  {
+    "nome": "C111",
+    "assunto": "Introdução à Análise de Dados",
+    "professor": {
+      "nome": "Renzo Mesquita"
+    },
+    "alunos": {
+      "nome_Aluno": ["Paulo Henrique Pivoto","João Gabriel","Pedro Tiso","Guilherme Fernandes"]
+    }
+  },
+
+  {
+  "nome": "S01",
+    "assunto": "Paradigmas de Programação",
+    "professor": {
+      "nome": "Marcelo Cisneiros"
+    },
+        "alunos": {
+      "nome_Aluno": ["Paulo Henrique Pivoto","João Gabriel","Pedro Tiso","Guilherme Fernandes"]
+    }
+  }
+]
+
