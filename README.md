@@ -14,3 +14,10 @@ Esta aula teve como objetivo apresentar o ambiente de desenvolvimento do MongoDB
 
 Nesta aula também foi proposto um exercício que consistia em criar um arquivo json contento três aulas
 e apos criado o arquivo importá-lo para o MongoDB.
+
+### Aula 03
+Esta aula teve como objetivo apresentar a maneira de conectar o MongoDB ao VScode ou Pycharm para execução de MQL Querries
+via código Python
+
+Nesta aula foi proposto a criação de uma classe com 5 funções para buscar dados em um dataset de referência que continha
+dados de pokemons da 1ª Geração.
